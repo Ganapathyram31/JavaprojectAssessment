@@ -1,8 +1,7 @@
-I am Ganapathyram R (717823F114) from Information Technology Department 3rd year.Here I created a java console based project to Build a console app to manage products, bills of materials (BOM), work orders, 
-material issues, production, and inventory updates. here is my output of my project.
+Hello Everyone !,I am Ganapathyram R (717823F114) from Information Technology Department 3rd year.Here I created a java console based project to Build a console app to manage products, bills of materials (BOM), work orders, material issues, production, and inventory updates. here is my output of my project.<br>
 
 
-PROBLEM STATEMENT:Build a console app to manage products, bills of materials (BOM), work orders, material issues, production, and inventory updates.
+PROBLEM STATEMENT:Build a console app to manage products, bills of materials (BOM), work orders, material issues, production, and inventory updates.<br>
 
 1. Output to add products<br>
    <img width="223" height="290" alt="Screenshot 2025-09-22 214252" src="https://github.com/user-attachments/assets/d65829a8-3fa1-448c-bb08-85d90ef54ccc" /><br>
